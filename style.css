@@ -2,3 +2,7 @@ body {
     color: white;
     background: pink;
 }
+
+header {
+    border: solid 2px cornflowerblue
+}
